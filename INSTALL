@@ -1,0 +1,9 @@
+Building BeatleCoin
+
+See doc/readme-qt.rst for instructions on building Beatlecoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Beatlecoin.
+
+See doc/build-*.txt for instructions on building beatlecoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of BeatleCoin.
