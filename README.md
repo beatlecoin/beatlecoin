@@ -21,11 +21,11 @@ Block rewards:
 
 Standart subsidy (after 911 block) - 1 BEA
 
-First 100 blocks - 0.04 BEA
-101-200 b - 0.16 BEA
-201-300 b - 0.24 BEA
-301-400 b - 0.3804 BEA
-401-909 b - 0.85 BEA
+First 99 blocks - 0.04 BEA
+100-199 b - 0.16 BEA
+200-299 b - 0.24 BEA
+300-399 b - 0.3804 BEA
+400-909 b - 0.85 BEA
 
 Superblocks are: 64, 910 (one after 909), 1963-1970 and others.
 
